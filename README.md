@@ -20,6 +20,7 @@ Since then I pushed **850**+ commits, and submitted **a bunch of** pull requests
 <code><img height="27" src="https://miro.medium.com/max/1400/1*9hd_8qR0CMZ8L0pVbFLjDw.png" alt="cpp"></code>
 (Level 0.01)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prcoxy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prcoxy)](https://git.io/streak-stats)
+
 
 ### TTFN!
